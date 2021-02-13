@@ -11,3 +11,4 @@ Starter template for setting up Svelte with SCSS 🚀
   ` cd my-svelte-project `
   ` npm install `
 # thankyoukavya
+# thankyoukavya
