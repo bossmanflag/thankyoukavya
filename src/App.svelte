@@ -50,6 +50,17 @@
         records. Kavya is farfetch and a visionary. Thank you kavya (25FEB2021)
       </div>
     </li>
+    <li>
+      <div class="subtitle">
+        Kavya is a caring and nice didi. This time i asked for a feed back about
+        a small app that i build and she sat with me and gave me sexy sexy very
+        nice feedback and told me that she was very proud of me :'). but she is
+        also a little lazy so igave her little motivation now she is fine. that
+        is what friends do for didi. now that it is established that she is
+        didi, congratulations on defeating bjp. bad joke. Thank you kavya
+        (4MAY2021)
+      </div>
+    </li>
   </ol>
 </main2>
 
